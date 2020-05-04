@@ -1,0 +1,7 @@
+index
+menu
+about
+cart
+shipping
+confirme
+http://demo.themefisher.com/cafedine/contact.html
